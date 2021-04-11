@@ -1,0 +1,25 @@
+{
+  "short_name": "Tims Links",
+  "name": "Useful links from me.. Tim Green",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "me.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "me.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#02d463",
+  "background_color": "#1d1d1d"
+}
