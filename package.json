@@ -4,12 +4,12 @@
   "private": true,
   "dependencies": {
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3"
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^14.2.0",
     "node-sass": "^7.0.1",
     "react": "^18.1.0",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
